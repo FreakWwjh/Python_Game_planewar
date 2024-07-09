@@ -1,4 +1,4 @@
-# Python_text
+# Python_Game_PlaneWar
 -第一个界面<br>
 	-除去常规操作外，额外添加“开始游戏”图标，点击图标后进入游戏<br>
 -游戏界面i<br>
